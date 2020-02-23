@@ -1,0 +1,84 @@
+
+/* Class = "UIButton"; normalTitle = "Contact Me!"; ObjectID = "0xJ-YJ-JyW"; */
+"0xJ-YJ-JyW.normalTitle" = "Contact Me!";
+
+/* Class = "UITabBarItem"; title = "Search"; ObjectID = "4kr-DS-tEp"; */
+"4kr-DS-tEp.title" = "Search";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "BNK-Uq-0nC"; */
+"BNK-Uq-0nC.title" = "Cancel";
+
+/* Class = "UILabel"; text = "What are you looking for?"; ObjectID = "Bw8-0b-S0d"; */
+"Bw8-0b-S0d.text" = "What are you looking for?";
+
+/* Class = "UILabel"; text = "Unique & Featured Services"; ObjectID = "Dag-sE-x7w"; */
+"Dag-sE-x7w.text" = "Unique & Featured Services";
+
+/* Class = "UIButton"; normalTitle = "Apply Filters"; ObjectID = "F0g-Nc-4PV"; */
+"F0g-Nc-4PV.normalTitle" = "Apply Filters";
+
+/* Class = "UILabel"; text = "Veririfed by Waseet"; ObjectID = "GA4-AH-OKT"; */
+"GA4-AH-OKT.text" = "Veririfed by Waseet";
+
+/* Class = "UITabBarItem"; title = "Classifieds"; ObjectID = "Ghc-xL-x4D"; */
+"Ghc-xL-x4D.title" = "Classifieds";
+
+/* Class = "UILabel"; text = "Want to post an ad?"; ObjectID = "JFQ-l4-r7w"; */
+"JFQ-l4-r7w.text" = "Want to post an ad?";
+
+/* Class = "UIButton"; normalTitle = "POST HERE"; ObjectID = "KEP-Av-WMG"; */
+"KEP-Av-WMG.normalTitle" = "POST HERE";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "LGw-Bu-0s7"; */
+"LGw-Bu-0s7.title" = "Favorites";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "OhF-LY-chB"; */
+"OhF-LY-chB.title" = "Close";
+
+/* Class = "UILabel"; text = "Your Email"; ObjectID = "UbG-Eg-du2"; */
+"UbG-Eg-du2.text" = "Your Email";
+
+/* Class = "UINavigationItem"; title = "Filters"; ObjectID = "YDV-An-KyA"; */
+"YDV-An-KyA.title" = "Filters";
+
+/* Class = "UILabel"; text = "Company Name"; ObjectID = "Z1z-GL-pY1"; */
+"Z1z-GL-pY1.text" = "Company Name";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "b1d-oC-G5y"; */
+"b1d-oC-G5y.normalTitle" = "View All";
+
+/* Class = "UINavigationItem"; title = "Favorites"; ObjectID = "bM3-Q6-dfO"; */
+"bM3-Q6-dfO.title" = "Favorites";
+
+/* Class = "UILabel"; text = "Your Name"; ObjectID = "dV5-8C-S6W"; */
+"dV5-8C-S6W.text" = "Your Name";
+
+/* Class = "UIButton"; normalTitle = "View All"; ObjectID = "e7U-AJ-1hD"; */
+"e7U-AJ-1hD.normalTitle" = "View All";
+
+/* Class = "UILabel"; text = "Join us now and expand your business!"; ObjectID = "fmU-do-Jk3"; */
+"fmU-do-Jk3.text" = "Join us now and expand your business!";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "gvF-yx-jVp"; */
+"gvF-yx-jVp.title" = "More";
+
+/* Class = "UILabel"; text = "How can I help you?"; ObjectID = "nO9-6W-ISb"; */
+"nO9-6W-ISb.text" = "How can I help you?";
+
+/* Class = "UIButton"; normalTitle = "SEARCH HERE"; ObjectID = "rc7-Th-98E"; */
+"rc7-Th-98E.normalTitle" = "SEARCH HERE";
+
+/* Class = "UILabel"; text = "Provide us with your contact info, so we can call you back"; ObjectID = "s8i-qC-w4O"; */
+"s8i-qC-w4O.text" = "Provide us with your contact info, so we can call you back";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "umH-Sk-Ult"; */
+"umH-Sk-Ult.text" = "Phone Number";
+
+/* Class = "UINavigationItem"; title = "Details"; ObjectID = "vKb-7Y-KfD"; */
+"vKb-7Y-KfD.title" = "Details";
+
+/* Class = "UINavigationItem"; title = "Add Service"; ObjectID = "vNF-Kp-alF"; */
+"vNF-Kp-alF.title" = "Add Service";
+
+/* Class = "UITabBarItem"; title = "Add Services"; ObjectID = "yGv-PZ-Cle"; */
+"yGv-PZ-Cle.title" = "Add Services";
