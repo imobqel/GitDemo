@@ -14,6 +14,8 @@ public class Test extends iosBase {
 		driver.launchApp();
 		driver.findElementByAccessibilityId("Allow").click();
 
+		System.out.print("A new change");
+
 	}
 
 }
