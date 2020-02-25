@@ -22,13 +22,13 @@ public class iosBase {
 		capabilities.setCapability("newCommandTimeout", 100000);
 		capabilities.setCapability("noRest", true);
 
-		capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "iPhone 11");
+		capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "iPhone8");
 		capabilities.setCapability(MobileCapabilityType.AUTOMATION_NAME, "XCUITest");
 		capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, "iOS");
 		capabilities.setCapability(MobileCapabilityType.APP, app.getAbsolutePath());
 		capabilities.setCapability("–session-override", true);
 
-		driver = new IOSDriver<>(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
+		driver = new IOSDriver<>(new URL("http://0.0.0.0:4723/wd/hub"), capabilities);
 
 		return driver;
 	}
