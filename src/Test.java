@@ -11,8 +11,9 @@ public class Test extends iosBase {
 		IOSDriver<IOSElement> driver = capabilities();
 		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 
-		driver.launchApp();
 		driver.findElementByAccessibilityId("Allow").click();
+
+		System.out.print("A new change");
 
 	}
 
