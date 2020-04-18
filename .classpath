@@ -30,7 +30,6 @@
 	<classpathentry kind="lib" path="/Users/imranmoqbel/Desktop/Appium/Selenium jars/Selenium and Appium jar files/selenium-firefox-xpi-driver-4.0.0-alpha-3.jar"/>
 	<classpathentry kind="lib" path="/Users/imranmoqbel/Desktop/Appium/Selenium jars/Selenium and Appium jar files/selenium-http-4.0.0-alpha-3.jar"/>
 	<classpathentry kind="lib" path="/Users/imranmoqbel/Desktop/Appium/Selenium jars/Selenium and Appium jar files/selenium-ie-driver-4.0.0-alpha-3.jar"/>
-	<classpathentry kind="lib" path="/Users/imranmoqbel/Desktop/Appium/Selenium jars/Selenium and Appium jar files/selenium-java-4.0.0-alpha-3.jar"/>
 	<classpathentry kind="lib" path="/Users/imranmoqbel/Desktop/Appium/Selenium jars/Selenium and Appium jar files/selenium-json-4.0.0-alpha-3.jar"/>
 	<classpathentry kind="lib" path="/Users/imranmoqbel/Desktop/Appium/Selenium jars/Selenium and Appium jar files/selenium-opera-driver-4.0.0-alpha-3.jar"/>
 	<classpathentry kind="lib" path="/Users/imranmoqbel/Desktop/Appium/Selenium jars/Selenium and Appium jar files/selenium-remote-driver-4.0.0-alpha-3.jar"/>
